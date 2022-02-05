@@ -28,5 +28,5 @@ I'm **tawfik shalash** (AKA **tawfik-s**). I am a CS student trying to balance b
 [![Facebook](https://img.shields.io/badge/-FACEBOOK-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tawfeek.shalash)
 
 ## Some stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xUser5000)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tawfik-s)](https://github.com/anuraghazra/github-readme-stats)
 
