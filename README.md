@@ -3,7 +3,7 @@
 I'm **tawfik shalash** (AKA **tawfik-s**). I am a CS student trying to balance between the academic filed,projects and my passion towards problem solving
 
 ## Here's some facts about me
-- 🔭 I’m currently working on fatura as intern ship for student
+- 🔭 I’m currently working on fatura as intern 
 - 🔭 I’m currently working on PST & ICPC as ps coach
 - 🌱 I’m currently learning nodejs
 - 🌱 I competed in the ECPC
