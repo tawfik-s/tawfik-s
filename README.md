@@ -15,7 +15,7 @@ I'm **tawfik shalash** (AKA **tawfik-s**). I am a CS student trying to balance b
 - Java, C++, OOP
 - Data Structures, Algorithms, Competitive Programming
 - mysql
-
+<!-- 
 ## Developer Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -27,7 +27,7 @@ I'm **tawfik shalash** (AKA **tawfik-s**). I am a CS student trying to balance b
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:t.shalash1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tawfik-shalash-6517ab1b3/)
 [![Facebook](https://img.shields.io/badge/-FACEBOOK-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tawfeek.shalash)
-<!-- 
+
 ## Some stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tawfik-s)](https://github.com/anuraghazra/github-readme-stats)
  -->
