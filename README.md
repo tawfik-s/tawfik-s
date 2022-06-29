@@ -14,7 +14,7 @@ I'm **tawfik shalash** (AKA **tawfik-s**). I am a CS student trying to balance b
 - JavaScript, React, Node.js, Express.js
 - Java, C++, OOP
 - Data Structures, Algorithms, Competitive Programming
-- mysql
+- mysql, mongodp, elastic search
 <!-- 
 ## Developer Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
