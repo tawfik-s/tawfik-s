@@ -11,7 +11,7 @@ I'm **tawfik shalash** (AKA **tawfik-s**). I am a CS student trying to balance b
 - ⚡ I enjoy chess, sport
 
 ## Programming Skills
-- JavaScript, React, Node.js, Express.js
+- JavaScript, React, Node.js, ExpressJS, typescript, unit testing with jasmine
 - Java, C++, OOP
 - Data Structures, Algorithms, Competitive Programming
 - mysql, mongodp, elastic search
