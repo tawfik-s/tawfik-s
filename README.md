@@ -4,14 +4,13 @@ I'm **tawfik shalash** (AKA **tawfik-s**). I am a CS student trying to balance b
 
 ## Here's some facts about me
 
-- 🔭 I’m currently working on PST & ICPC as ps coach
-- 🔭 I take an itern at fatura building audit trail system
+- 🔭 I take an intern at fatura building audit trail system
 - 🌱 I’m currently learning nodejs
 - 🌱 I competed in the ECPC
 - ⚡ I enjoy chess, sport
 
 ## Programming Skills
-- JavaScript, React, Node.js, ExpressJS, typescript, unit testing with jasmine
+- JavaScript, React, Node.js, ExpressJS, typescript, unit testing with jasmine, integration testing with supertest
 - Java, C++, OOP
 - Data Structures, Algorithms, Competitive Programming
 - mysql, mongodp, elastic search, postgresQL
