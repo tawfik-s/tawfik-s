@@ -5,7 +5,7 @@ I'm **tawfik shalash** (AKA **tawfik-s**). I am a CS student trying to balance b
 ## Here's some facts about me
 
 - 🔭 I take an intern at fatura building audit trail system
-- 🌱 I’m currently learning nodejs
+- 🌱 I’m currently backend developer with nodejs
 - 🌱 I competed in the ECPC
 - ⚡ I enjoy chess, sport
 
