@@ -1,11 +1,10 @@
 ## Hi👋
 
-I'm **tawfik shalash** (AKA **tawfik-s**). I am a CS student trying to balance between the academic filed,projects and my passion towards problem solving
+I'm **tawfik shalash**. 
 
 ## Here's some facts about me
 
-- 🔭 I take an intern at fatura building audit trail system
-- 🌱 I’m currently backend developer with nodejs
+- 🌱 I’m currently backend developer (java & nodejs)
 - 🌱 I competed in the ECPC
 - ⚡ I enjoy chess, sport
 
