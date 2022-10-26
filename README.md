@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Spring**
 
+- 🐱‍👤 I’m on the side of fixing things.
+
 - 💬 Ask me about **Algorithms and data Structure**
 
 - 📫 How to reach me **t.shalash1@gmail.com**
