@@ -24,6 +24,3 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tawfik-s&show_icons=true&locale=en&layout=compact&theme=dark"" alt="tawfik-s" /></p>
 
-<p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=tawfik-s&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
-</p>
