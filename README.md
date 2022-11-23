@@ -25,6 +25,3 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tawfik-s&show_icons=true&locale=en&layout=compact&theme=dark"" alt="tawfik-s" /></p>
 
-
-## Some stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tawfik-s)](https://github.com/anuraghazra/github-readme-stats)
