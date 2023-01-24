@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tawfik shalash</h1>
-<h3 align="center">backend SE | senior CS student | Backend & problem solving Enthusiast | ex fawry & ex fatura intern</h3>
+<h3 align="center"> software engineer | senior CS student | Backend & problem solving Enthusiast | ex fawry intern & ex fatura intern</h3>
 
 # 💫 About Me:
 🌱 I’m currently developing using java & spring<br><br>🐧I love UNIX and Linux systems<br><br>🐱‍👤 I’m on the side of fixing things.<br><br>💬 Ask me about Algorithms and Data Structure<br><br>📫 How to email me t.shalash1@gmail.com
