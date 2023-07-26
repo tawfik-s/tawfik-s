@@ -5,6 +5,6 @@
 🌱 developing using java (Quarkus & SpringBoot). 
 <br><br>🐧 I love UNIX and Linux systems.
 <br><br>🐱‍👤 On the side of building stuffs.
-<br><br>🏗  interested in architecture, backend, competative programming.
-<br><br>📫 How to email me t.shalash1@gmail.com.
+<br><br>🏗  Interested in architecture, backend, competative programming.
+<br><br>📫 Email me t.shalash1@gmail.com.
 <br>
