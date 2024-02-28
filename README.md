@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tawfik</h1>
-<h3 align="center"> SE @TechnoVerse ex fawry & fatura intern | Pragmatic | 2023 Graduate🎉🎉</h3>
+<h3 align="center"> SE @TechnoVerse ex fawry & fatura intern | 2023 Graduate🎉🎉</h3>
 
 # 💫 About Me:
 🌱 developing using java (Quarkus & SpringBoot). 
