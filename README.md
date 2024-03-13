@@ -7,8 +7,9 @@
 <br><br>📫 Email me t.shalash1@gmail.com.
 <br>
 
+<h3 align="center">
 [LinkedIn](https://www.linkedin.com/in/tawfeek-shalash/)
 [YouTube](https://www.youtube.com/c/TawfikShalash)
 [Twitter](https://twitter.com/TawfeekShalash)
 [Instagram](https://www.instagram.com/tawfeekshalash/)
-
+</h3>
