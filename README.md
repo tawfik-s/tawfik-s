@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/tawfeekshalash" target="blank"><img src="https://img.shields.io/twitter/follow/tawfeekshalash?logo=twitter&style=for-the-badge" alt="tawfeekshalash" /></a> </p>
 
-- 🌱 I’m currently learning **CleanCode, System Design**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 📝 I regularly write articles on [https://medium.com/@t.shalash1](https://medium.com/@t.shalash1)
 
