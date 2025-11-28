@@ -9,19 +9,17 @@
 
 - 📫 How to reach me **t.shalash1@gmail.com**
 
-<h2 align="center">📚 My Tech Blogs</h2>
+## 📰 Latest From My Blogs
 
-<p align="center">
-  <a href="https://tawfeek.hashnode.dev/">
-    <img src="https://img.shields.io/badge/Visit%20My%20Hashnode%20Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-  </a>
-</p>
+> 🚀 I write about Java, Spring Boot, DevOps, Performance, and software engineering.  
+> Check out my articles:
 
-<p align="center">
-  <a href="https://medium.com/@t.shalash1">
-    <img src="https://img.shields.io/badge/Read%20My%20Medium%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-</p>
+### 🔵 Hashnode  
+👉 **https://tawfeek.hashnode.dev**
+
+### ⚫ Medium  
+👉 **https://medium.com/@t.shalash1**
+
 
 
 
