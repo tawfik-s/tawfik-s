@@ -1,17 +1,29 @@
 <h1 align="center">Hi 👋, I'm Tawfeek Shalash</h1>
-<h3 align="center">Software Engineer @vodafone 🎉 || ex SE @ TechnoVerse || ex SE intern @ Fawry & Fatura || 23 years old geek.</h3>
+<h3 align="center">Software Engineer @vodafone || ex SE @ TechnoVerse || ex SE intern @ Fawry & Fatura</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tawfik-s" alt="tawfik-s" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/tawfeekshalash" target="blank"><img src="https://img.shields.io/twitter/follow/tawfeekshalash?logo=twitter&style=for-the-badge" alt="tawfeekshalash" /></a> </p>
 
-- 🌱 I’m currently learning **Kubernetes**
-
-- 📝 I regularly write articles on [https://medium.com/@t.shalash1](https://medium.com/@t.shalash1)
-
 - 💬 Ask me about **java, SpringBoot, Algorithms**
 
 - 📫 How to reach me **t.shalash1@gmail.com**
+
+<h2 align="center">📚 My Tech Blogs</h2>
+
+<p align="center">
+  <a href="https://tawfeek.hashnode.dev/">
+    <img src="https://img.shields.io/badge/Visit%20My%20Hashnode%20Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://medium.com/@t.shalash1">
+    <img src="https://img.shields.io/badge/Read%20My%20Medium%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
