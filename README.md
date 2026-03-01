@@ -11,7 +11,7 @@
 
 ## 📰 Latest From My Blogs
 
-> 🚀 I write about Java, JVM, Spring Boot, DevOps, Performance, and Software Engineering.  
+> 🚀 I write about Java, JVM, Spring Boot, Microservices, DevOps, Performance, and Software Engineering.  
 > Check out my articles:
 
 ### 🔵 Hashnode  
