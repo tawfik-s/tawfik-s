@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tawfeek Shalash</h1>
 <h3 align="center">Software Engineer @vodafone || ex SE @ TechnoVerse || ex SE intern @ Fawry & Fatura</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tawfik-s" alt="tawfik-s" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tawfik-s" alt="tawfik-s" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/tawfeekshalash" target="blank"><img src="https://img.shields.io/twitter/follow/tawfeekshalash?logo=twitter&style=for-the-badge" alt="tawfeekshalash" /></a> </p>
 
-- 💬 Ask me about **java, SpringBoot, Algorithms**
+- 💬 Ask me about **java, SpringBoot, Algorithms, Microservices**
 
 - 📫 How to reach me **t.shalash1@gmail.com**
 
